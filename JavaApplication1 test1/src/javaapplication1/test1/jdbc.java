@@ -11,4 +11,3 @@ package javaapplication1.test1;
  */
 public class jdbc {
     
-}
